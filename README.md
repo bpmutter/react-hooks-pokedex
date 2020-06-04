@@ -1,1 +1,1 @@
-# React Hooks Pokedex Starter
+Pokedex with react hooks
